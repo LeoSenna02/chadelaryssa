@@ -1,0 +1,17 @@
+body{
+  background-size: cover;
+  background-image: url(oceano.jpg);
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #ee8a39;
+  text-align: center;
+  border-radius: 15px
+
+}
+.menu{
+   background-color: aqua;
+   border-radius: 80px;
+   
+
+}
